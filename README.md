@@ -1,0 +1,2 @@
+# garibankod
+İlk Kodum
